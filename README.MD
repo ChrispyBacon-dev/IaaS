@@ -25,7 +25,7 @@ The primary objective is to create a resilient and flexible Docker hosting envir
 
 ## 3. Workflow & Architecture Overview
 
-1.  **Provision Host:** Start with a clean Ubuntu Server instance.
+1.  **Provision Host:** Start with a clean Server instance.
 2.  **Configure Host via Ansible:** Run Ansible playbooks against the new host to:
     *   Ensure SSH is configured securely.
     *   Install Docker engine.
