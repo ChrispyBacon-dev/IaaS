@@ -59,10 +59,6 @@ The primary objective is to create a resilient and flexible Docker hosting envir
 
 ***
 
-- Work in Progress - Infrastructure as a Service fun project.
-
-Okay, managing secrets securely is critical for any infrastructure project. Storing them improperly is a major security risk. Here's some advice tailored to your setup (Docker, Ansible, GitHub, Cloudflare, etc.), presented in Markdown:
-
 ## On Secrets Keeping and Storing
 
 Managing secrets (API keys, passwords, tokens, certificates, etc.) effectively requires careful planning. The goal is to prevent accidental exposure while making them accessible *only* to the authorized applications or services that need them, when they need them.
