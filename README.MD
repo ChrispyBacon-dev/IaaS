@@ -11,7 +11,7 @@ The primary objective is to create a resilient and flexible Docker hosting envir
 
 ## 2. Key Technologies & Components
 
-*   **Host Operating System:** Ubuntu Server (as the base for Docker hosts).
+*   **Host Operating System:** any Linux Server or AWS Cloud Instances (as the base for Docker hosts).
 *   **Containerization:** Docker (to run applications in isolated environments).
 *   **Container Management:** [Komo.do](http://Komo.do) (UI/tool for managing Docker containers and deployments).
 *   **Configuration Management (Host Setup):** Ansible (to automate the preparation of new Ubuntu host servers).
